@@ -1,0 +1,16 @@
+.box{
+    width: 350px;
+    height: auto;
+    margin: 50px 600px;
+    border: 1px solid black;
+}
+Form{
+    background-color: burlywood;
+    padding: 34px;
+    margin: 10px;
+    text-align: center;
+}
+.bt{
+    width:120px;
+    height: 35px;
+}

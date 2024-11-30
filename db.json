@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "c061",
+      "title": "blue eyes",
+      "blog": "iv1"
+    },
+    {
+      "id": "becc",
+      "title": "Millionaire",
+      "blog": "Glory"
+    },
+    {
+      "id": "0898",
+      "title": "Casino",
+      "blog": "YYH"
+    },
+    {
+      "id": "e952",
+      "title": "Suits",
+      "date1": "2019-01-23",
+      "blog": "Harvey Specter"
+    },
+    {
+      "id": "b08a",
+      "title": "Suits",
+      "date1": "2024-10-27",
+      "blog": "Donna"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
